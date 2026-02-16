@@ -14,6 +14,7 @@ I'm currently focused on **Backend Development**, **Systems Programming**, and *
 [contact-tuta]: https://img.shields.io/badge/nadvotsky%40tuta.com-850122?style=for-the-badge&logo=tuta
 [contact-linkedin]: https://img.shields.io/badge/LinkedIn%20&#47;%20nadvotsky-0a66c2?style=for-the-badge
 [contact-openpgp]: https://img.shields.io/badge/OpenPGP%20Key-0093dd?style=for-the-badge&logo=gnuprivacyguard&logoColor=fff
+
 ---
 
 > **Languages, Primary & Exposure**
