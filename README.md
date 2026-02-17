@@ -3,15 +3,17 @@
 I'm Alexander (also *Oleksandr*) — a **Software Engineer / Software Developer**.
 
 [![GitHub][contact-github]](https://github.com/nadvotsky)
-[![Tutanota][contact-tuta]](mailto:nadvotsky@tuta.com)
 [![LinkedIn][contact-linkedin]](https://www.linkedin.com/in/nadvotsky)
+
+[![Tutanota][contact-tuta]](mailto:nadvotsky@tuta.com)
+[![OpenPGP Key][contact-openpgp]](https://keys.openpgp.org/search?q=nadvotsky%40tuta.com)
 
 I'm currently focused on **Backend Development**, **Systems Programming**, and **Automation/Configuration**, but I also enjoy experimenting with esoteric, unconventional, and occasionally weird ideas, tools, and languages just to see how things break (or work).
 
 [contact-github]: https://img.shields.io/badge/nadvotsky-181717?style=for-the-badge&logo=github
 [contact-tuta]: https://img.shields.io/badge/nadvotsky%40tuta.com-850122?style=for-the-badge&logo=tuta
 [contact-linkedin]: https://img.shields.io/badge/LinkedIn%20&#47;%20nadvotsky-0a66c2?style=for-the-badge
-
+[contact-openpgp]: https://img.shields.io/badge/OpenPGP%20Key-0093dd?style=for-the-badge&logo=gnuprivacyguard&logoColor=fff
 ---
 
 > **Languages, Primary & Exposure**
@@ -144,3 +146,4 @@ I'm currently focused on **Backend Development**, **Systems Programming**, and *
 <a href="https://asana.com"><img src="https://img.shields.io/badge/-f06a6a?style=flat-square&logoSize=auto&logo=asana&logoColor=fff" alt="Asana" /></a>
 <a href="https://trello.com"><img src="https://img.shields.io/badge/-0052cc?style=flat-square&logoSize=auto&logo=trello&logoColor=fff" alt="Trello" /></a>
 </p>
+
