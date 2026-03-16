@@ -8,7 +8,7 @@ I'm Alexander (also *Oleksandr*) — a **Software Engineer / Software Developer*
 [![Tutanota][contact-tuta]](mailto:nadvotsky@tuta.com)
 [![OpenPGP Key][contact-openpgp]](https://keys.openpgp.org/search?q=nadvotsky%40tuta.com)
 
-I'm currently focused on **Backend Development**, **Systems Programming**, and **Automation/Configuration**, but I also enjoy experimenting with esoteric, unconventional, and occasionally weird ideas, tools, and languages just to see how things break (or work).
+I'm currently focused on **Backend Development** and **DevOps** (**Provisioning**, **Automation**, **Scripting**, and **Configuration**), but I also enjoy experimenting with esoteric, unconventional, and occasionally weird ideas, tools, and languages just to see how things break (or work).
 
 [contact-github]: https://img.shields.io/badge/nadvotsky-181717?style=for-the-badge&logo=github
 [contact-tuta]: https://img.shields.io/badge/nadvotsky%40tuta.com-850122?style=for-the-badge&logo=tuta
